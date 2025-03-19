@@ -1,14 +1,5 @@
 Olá!! 👋
 
-Sou a Enauara Badin, tenho 34 anos, resido em Chapecó/SC.
-
-Trabalho na área de TI desde 2007. De 2007 a 2019 trabalhei na área de Redes e Telecomunicações em provedor de internet. Em 2020 decidi migrar para a área de programação, e que estou até hoje.
-Desde o início da minha carreira de programação até o momento trabalho com o sistema Protheus da Totvs, programando em advpl.
-
-No momento estou cursando pós graduação "Inteligência da Informação - Infraestrutura e Gestão" na Unochapecó.
-Sou graduada em Sistemas de Informação pela Unoesc.
-
-Estou ainda iniciando, muito caminho pela frente. Bora 😄
 
 
 <!--
